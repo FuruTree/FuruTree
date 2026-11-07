@@ -1,4 +1,8 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tiny5+Duo&weight=300&size=50&duration=2000&pause=1000&color=6F95CA&background=D5D5D5&center=true&vCenter=true&width=1435&height=100&lines=Doing+%3E%3E%3E+RCJ+Rescue-Line%2C+BVE%2C+Photographs)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tiny5+Duo&weight=300&size=50&duration=2000&pause=1000&color=2BC1B4&background=D5D5D5&center=true&vCenter=true&width=1435&height=100&lines=Hi+I'm+a+student.+I+code+every+now+and+then...)](https://git.io/typing-svg)
+## ![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&section=header&reversal=true&text=FuruTree&textBg=false&fontColor=D5D5D5&fontSize=70&fontAlign=50&fontAlignY=40&rotate=0&stroke=1111111111111111111111&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tiny5+Duo&weight=400&size=50&duration=2000&pause=1000&color=6F95CA&background=D5D5D500&center=true&vCenter=true&width=1435&height=100&lines=Hi+I'm+a+student.+I+code+every+now+and+then...)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tiny5+Duo&weight=400&size=50&duration=2000&pause=1000&color=2BC1B4&background=D5D5D500&center=true&vCenter=true&width=1435&height=100&lines=Doing+%3E%3E%3E+RCJ+Rescue-Line%2C+BVE%2C+Photographs)](https://git.io/typing-svg)
+
+
 <!--
 **FuruTree/FuruTree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
